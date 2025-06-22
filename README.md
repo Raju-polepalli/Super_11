@@ -37,7 +37,8 @@ Custom Batting Order: Drag-drop or reorder players in final XI.
 
 Team Performance Summary: Auto-calculated performance based on selected team.
 
-image:
-Super_11:![Dashboard Preview].(https://github.com/Raju-polepalli/Super_11/blob/main/Super_11_LIst.png).
 
+previw :
+![Power_Hitters_Summary](https://github.com/user-attachments/assets/41a551c3-9606-4c98-bc69-31728081ad1e)
+![Super_11_LIst](https://github.com/user-attachments/assets/93f99d10-3ff8-4541-a154-86d9b300d57e)
 
